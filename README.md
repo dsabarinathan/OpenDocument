@@ -1,4 +1,4 @@
 # OpenDoc
 Open Doc : Real time document processing libraries
 
-In this repository we will share the document related image processing modules
+In this repository we will share the scanned document related image processing modules
