@@ -8,7 +8,7 @@ Created on Mon May 27 18:42:38 2024
 from setuptools import setup , find_packages
 
 setup(
-      name = 'OpenDoc',
+      name = 'OpenDocument',
       version = '0.1',
       packages = find_packages(),
       install_requires =[
