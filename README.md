@@ -1,4 +1,4 @@
-# OpenDoc
+# OpenDocument
 
 <p align="center">
   <img src="https://github.com/dsabarinathan/OpenDoc/blob/master/logo/open-document-analysis-high-resolution-logo-transparent%20(1).png" alt="Logo" width="200">
@@ -8,9 +8,9 @@
   <img src="https://img.shields.io/badge/language-python-blue.svg" alt="Python">
 </p>
 
-**Open Doc: Real-time document processing libraries**
+**OpenDocument: Real-time document processing libraries**
 
-OpenDoc is an open-source project that provides robust and efficient libraries for real-time document image processing. Our goal is to simplify the process of extracting meaningful information from scanned documents through various image preprocessing techniques. Whether you need to enhance image quality, reduce noise, correct skew, or extract text using OCR, OpenDoc offers a comprehensive suite of tools to meet your document processing needs.
+OpenDocument is an open-source project that provides robust and efficient libraries for real-time document image processing. Our goal is to simplify the process of extracting meaningful information from scanned documents through various image preprocessing techniques. Whether you need to enhance image quality, reduce noise, correct skew, or extract text using OCR, OpenDoc offers a comprehensive suite of tools to meet your document processing needs.
 
 In this repository, we share modules and scripts to help you seamlessly process and analyze document images, making OpenDoc a valuable resource for developers, researchers, and anyone working with scanned documents.
 
