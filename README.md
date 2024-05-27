@@ -44,7 +44,7 @@ Here are some of the features provided by our document image preprocessing modul
 
 ## Installation
 
-To install the necessary dependencies, use the following command:
+To install the OpenDocument 
 
 ```bash
-pip install -r requirements.txt
+pip install OpenDocument==0.1.3 
