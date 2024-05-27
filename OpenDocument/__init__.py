@@ -3,4 +3,4 @@
 __version__ = "0.0.1"
 
 # __init__.py
-from .preprocessing import sauvola_thresholding,remove_Lines
+from .preprocessing import sauvola_thresholding,remove_lines

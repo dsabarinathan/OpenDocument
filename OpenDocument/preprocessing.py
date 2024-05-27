@@ -24,7 +24,7 @@ def sauvola_thresholding(grayImage_, window_size=15):
     
     return thresholdImage_
 
-def remove_Lines(binaryImage_, horz_size=12, vert_size=15):
+def remove_lines(binaryImage_, horz_size=12, vert_size=15):
     """
     Removing the horizontal and vertical lines in the image.
     
