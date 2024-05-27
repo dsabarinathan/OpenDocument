@@ -9,13 +9,14 @@ from setuptools import setup , find_packages
 
 setup(
       name = 'OpenDocument',
-      version = '0.1',
+      version = '0.1.3',
       packages = find_packages(),
       install_requires =[
           # add depedencies here,
           # e.g. 'numpy>=1.11.1'
-          'scikit-image==0.18.3',
-          'numpy==1.20.0',
-          'opencv-python==4.9.0.80'
+          #'scikit-image==0.18.3',
+          #'numpy==1.20.0',
+          #'opencv-python==4.6.0.66',
+          #'opencv-contrib-python==4.6.0.66'
           ],
       )
