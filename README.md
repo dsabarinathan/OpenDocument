@@ -23,8 +23,7 @@ Here are some of the features provided by our document image preprocessing modul
 - **Binarization**: Convert grayscale or color images to binary images for easier processing.
 - **Skew Correction**: Automatically detect and correct the skew in scanned document images.
 - **Segmentation**: Segment document images into text, images, and other components for targeted processing.
-- **Optical Character Recognition (OCR)**: Extract text from document images using OCR technology.
-- **Feature Extraction**: Extract various features from document images for further analysis.
+
 
 ## Installation
 
