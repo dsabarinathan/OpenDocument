@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-@author: sabari
-"""
+
 
 import cv2
 from skimage.filters import threshold_sauvola
